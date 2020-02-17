@@ -1,5 +1,5 @@
 ---
-title: LeetCode 34. 在排序数组中查找元素的第一个和最后一个位置
+title: 2020-2-17-LeetCode 34. 在排序数组中查找元素的第一个和最后一个位置
 date: 2020-2-17
 permalink: /posts/2020/2/17/blog-post/ 
 tags: 
